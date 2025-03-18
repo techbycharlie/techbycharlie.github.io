@@ -1,0 +1,49 @@
+body{
+    background-color: yellow;
+}
+h2{
+    text-align:center;
+        font-family: "Yellowtail", cursive;
+        font-weight: 400;
+        font-style: normal;
+}
+ul{
+    padding: 10px;
+}
+li{
+    display:inline;
+    padding:0px 10px 0px 10px;
+}
+header{
+    Text-align:center;
+    background:url('https://png.pngtree.com/thumb_back/fh260/background/20240430/pngtree-orange-light-background-image_15722879.jpg');
+    background-size: cover;
+    padding:20px 0px 0px 0px;
+    color: rgb(167, 1, 23);
+}
+h1{
+    font-size: 50px;
+}
+#header-pic{
+    padding:40px 0px 0px 0px;
+    border: 10px solid #555;
+    border-color: black;
+    height:200px;
+}
+p{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+.dog-paragraph{
+    text-align: center;
+    font-size:25px;;
+}
+.better{
+    text-align:center;
+    font-size:30px;
+        font-family: "Yellowtail", cursive;
+        font-weight: 400;
+        font-style: normal;   
+}
